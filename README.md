@@ -31,6 +31,9 @@ Bunker CTF Manager es un script en Bash diseñado para facilitar la creación, a
    ```
 4. **Sigue las instrucciones en pantalla**:
    - Puedes eligir entre crear nuevas máquinas CTF, administrar imágenes y contenedores, o verificar los requisitos del sistema.
+## Captura de pantalla 📸
+
+![Pantalla Principal](Pantalla%20principal.png)
 
 ## Ejemplo de uso 🖥️
 
