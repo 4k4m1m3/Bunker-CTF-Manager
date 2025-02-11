@@ -40,15 +40,14 @@ Bunker CTF Manager es un script en Bash diseñado para facilitar la creación, a
 ### Crear un nuevo reto CTF
 1. Selecciona la opción **Crear un nuevo reto CTF**.
 2. Ingresa el nombre del reto, la imagen base (por ejemplo, `ubuntu:20.04`) y los puertos a exponer.
-3. El script generará una contraseña aleatoria para el usuario `bunkerpinguino`. **Debes copiar y guardar esta contraseña o, de preferencia, crear una nueva contraseña.**
-
-### Administrar imágenes Docker
-1. Selecciona la opción **Administrar imágenes Docker**.
-2. Elige entre listar las imágenes existentes o eliminar una imagen específica.
+3. El script generará una contraseña aleatoria para el usuario `bunkerpinguino`.
+**Debes copiar y guardar esta contraseña o, de preferencia, crear una nueva contraseña.**
 
 ### Exportar una máquina
 1. Después de crear una máquina, el script te preguntará si deseas exportarla.
 2. Si seleccionas "Sí", la máquina se guardará en un archivo `.tar` en el directorio actual.
+
+Luego de creada, modificada, y exportada la máquina debe enviar a Mario.
 
 ## Contribuciones 🤝
 
