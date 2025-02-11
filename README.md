@@ -19,7 +19,7 @@ Bunker CTF Manager es un script en Bash diseñado para facilitar la creación, a
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/4k4m1m3/Bunker-CTF-Manager.git
-   cd bunker-ctf-manager
+   cd Bunker-CTF-Manager
    ```
 2. **Haz ejecutable el script**:
    ```bash
@@ -30,7 +30,7 @@ Bunker CTF Manager es un script en Bash diseñado para facilitar la creación, a
    sudo ./BunkerCTFManager.sh
    ```
 4. **Sigue las instrucciones en pantalla**:
-   - Elige entre crear nuevas máquinas CTF, administrar imágenes y contenedores, o verificar los requisitos del sistema.
+   - Puedes eligir entre crear nuevas máquinas CTF, administrar imágenes y contenedores, o verificar los requisitos del sistema.
 
 ## Ejemplo de uso 🖥️
 
